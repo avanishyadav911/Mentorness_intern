@@ -6,7 +6,7 @@
 <br>
 _[Reel Video](https://drive.google.com/file/d/1pdx9dkidyLWT-PBkD9tA2G4L6vsRnnQT/view?usp=sharing)_
 <br>
------------------------**second Task**-------------------------------------------------------------
+-----------------------**second Task**-----------------------------------------------------------
 <br>
 **_Pizza Sales Analysis with SQL_**
 <br>
@@ -18,7 +18,7 @@ SQl Query
 <br>
 [Video](https://drive.google.com/file/d/1sxpB0JSexl95Py4xXv-j1ajPKor_POqR/view?usp=sharing)
 <br>
------------------------**Third Task**----------------------------------------------------------------
+-----------------------**Third Task**-------------------------------------------------------------
 <br>
 **_IPL Analysis with Power BI/Tableau_**
 <br>
